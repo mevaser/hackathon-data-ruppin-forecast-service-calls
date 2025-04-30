@@ -78,7 +78,7 @@ Each model was evaluated using MAE, RMSE, and R^2.
 ## 👥 Contributors
 
 - [@mevaser](https://github.com/mevaser) – modeling, preprocessing, and LSTM evaluation
-- [@galazulay3](https://github.com/galazulay3) – co-modeling, creative feature engineering, and joint data preparation
+- [@galazulay3](https://github.com/galazulay3) – modeling, creative feature engineering, and joint data preparation
 
 ---
 
