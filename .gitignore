@@ -19,8 +19,6 @@ Thumbs.db
 .env
 *.env
 
-# Ignore CSV outputs or large datasets
-*.csv
 
 # Ignore model checkpoints or large files
 *.h5
