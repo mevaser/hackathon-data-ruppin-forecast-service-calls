@@ -1,0 +1,38 @@
+# Ignore virtual environment
+.venv/
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+desktop.ini
+Thumbs.db
+
+# Ignore environment/config files
+.env
+*.env
+
+# Ignore CSV outputs or large datasets
+*.csv
+
+# Ignore model checkpoints or large files
+*.h5
+*.hdf5
+*.ckpt
+*.pb
+
+# Ignore Colab temporary files
+*.ipynb_out/
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore Google Drive mount (if accidentally synced)
+content/drive/
