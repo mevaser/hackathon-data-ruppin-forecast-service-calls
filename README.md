@@ -60,7 +60,6 @@ Each model was evaluated using MAE, RMSE, and R^2.
 ├── images/              # Visualizations and plots
 ├── notebooks/           # Model training, evaluation, prediction
 ├── presentation/        # Final slides for demo day
-├── xai/                 # Explainability: LIME + Counterfactuals
 ├── .gitignore
 └── README.md
 ```
